@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">AppGuardaTrabalhos</string>
+    <string name="app_name" translatable="false">AppGuardaTrabalhos</string>
+    <string name="trabalhos_acad_micos" translatable="false">Trabalhos Acadêmicos</string>
+    <string name="jobName" translatable="false">Nome do trabalho</string>
+    <string name="name" translatable="false">Name</string>
+    <string name="points" translatable="false">Pontos</string>
+    <string name="jobDescription" translatable="false">Descrição do trabalho</string>
+    <string name="buttonRegister" translatable="false">Button</string>
+    <string name="Register" translatable="false">Cadastrar</string>
+    <string name="deliveryDate">Data de entrega</string>
 </resources>
