@@ -1,0 +1,4 @@
+com/unipac/alunosapp/appguardatrabalhos/BuildConfig.java
+ com.unipac.alunosapp.appguardatrabalhos.BuildConfig
+com/unipac/alunosapp/appguardatrabalhos/MainActivity.java
+ com.unipac.alunosapp.appguardatrabalhos.MainActivity
